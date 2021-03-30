@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="toast_short">Short click!</string>
+    <string name="toast_long">Looooooooooooooong click!</string>
     <string-array name="classes">
         <item>CSCI-310</item>
         <item>CSCI-230</item>
